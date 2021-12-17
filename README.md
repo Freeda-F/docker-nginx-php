@@ -7,7 +7,7 @@ This is a simple example for running a docker container with PHP-FPM and NGINX u
 
 ## Usage
 
-1. A PHP application set up inside a folder - web_app.
+1. A PHP application set up inside a folder - website_app.
 2. The SSL certificate files inside the folder - certs.
 3. Custom nginx.conf file - nginx.conf
 
