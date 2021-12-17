@@ -26,6 +26,10 @@ cd docker-nginx-php
 ```
 docker-compose up -d
 ```
+4. To stop and remove the containers,networks or volumes associated with this docker, you can use
+```
+docker-compose down -v
+```
 
 ## Result
 
