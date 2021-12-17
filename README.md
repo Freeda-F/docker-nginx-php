@@ -5,7 +5,7 @@ This is a simple example for running a docker container with PHP-FPM and NGINX u
 - [Install docker](https://docs.docker.com/engine/install/)
 - [Install docker-compose](https://docs.docker.com/compose/install/)
 
-## Usage
+## prerequisite
 
 1. A PHP application set up inside a folder - website_app.
 2. The SSL certificate files inside the folder - certs.
